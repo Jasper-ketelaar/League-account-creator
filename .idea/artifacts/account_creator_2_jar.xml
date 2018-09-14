@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="account-creator-2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/account_creator_2_jar</output-path>
+    <root id="archive" name="account-creator-2.jar">
+      <element id="module-output" name="account-creator-2" />
+      <element id="file-copy" path="$PROJECT_DIR$/resources/ADJECTIVES" />
+      <element id="file-copy" path="$PROJECT_DIR$/resources/NOUNS" />
+    </root>
+  </artifact>
+</component>
